@@ -1,4 +1,4 @@
-# CodeClause_Text_Editor
+# Text Editor
 
 Basic Text Editor using tkinter package in python
  
